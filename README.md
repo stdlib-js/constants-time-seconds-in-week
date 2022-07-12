@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import SECONDS_IN_WEEK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-seconds-in-week@v0.0.8-esm/index.mjs';
+import SECONDS_IN_WEEK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-seconds-in-week@esm/index.mjs';
 ```
 
 #### SECONDS_IN_WEEK
@@ -71,7 +71,7 @@ var bool = ( SECONDS_IN_WEEK === 604800 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import roundn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundn@esm/index.mjs';
-import SECONDS_IN_WEEK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-seconds-in-week@v0.0.8-esm/index.mjs';
+import SECONDS_IN_WEEK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-seconds-in-week@esm/index.mjs';
 
 var secs;
 var wks;
